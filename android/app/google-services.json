@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382980018524",
+    "project_id": "task-manager-app-f04ee",
+    "storage_bucket": "task-manager-app-f04ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382980018524:android:3d57928499b2a46b3ff199",
+        "android_client_info": {
+          "package_name": "com.example.todotaskapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ9clWcNtG540IlVLNVUuz6Mpx6YLzKeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
